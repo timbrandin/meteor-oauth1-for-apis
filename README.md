@@ -15,7 +15,7 @@ That's where this package comes in hand, until Meteor has merged the
 
 If your not doing any POST, PUT or DELETE you don't need this package.
 
-* I use OAuth1Binding for the [Drupal Service package](https://github.com/timbrandin/meteor-drupal-service).
+* I use OAuth1Binding for the [Drupal Service package](https://github.com/timbrandin/meteor-drupal-services).
 
 * The [Twitter API package](https://github.com/Sewdn/meteor-twitter-api) also uses OAuth1Binding.
 
