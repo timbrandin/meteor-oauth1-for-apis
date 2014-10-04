@@ -9,7 +9,7 @@ There's no way of passing data or content, only parameters!
 This kind of makes it impossible to do POST, PUT or DELETE correctly.
 
 That's where this package comes in hand, until Meteor has merged the
-[pull request](https://github.com/meteor/meteor/pull/2761) I have also created.
+[pull request](https://github.com/meteor/meteor/pull/2762) I have also created.
 
 ## Example using OAuthBinding1
 
